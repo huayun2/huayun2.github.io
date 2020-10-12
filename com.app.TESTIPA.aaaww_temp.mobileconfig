@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>PayloadContent</key>
+    <dict>
+      <key>URL</key>
+      <string>https://192.168.1.47:5000/apps/receive_udid?id=eea6e1d8fdb2f92b</string>
+      <key>DeviceAttributes</key>
+      <array>
+        <string>SERIAL</string>
+        <string>MAC_ADDRESS_EN0</string>
+        <string>UDID</string>
+        <string>IMEI</string>
+        <string>ICCID</string>
+        <string>VERSION</string>
+        <string>PRODUCT</string>
+      </array>
+    </dict>
+    <key>PayloadOrganization</key>
+    <string>授权安装进入一下步</string>
+    <key>PayloadDisplayName</key>
+    <string>TESTIPA -- 点击右上角安装</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadUUID</key>
+    <string>7e4665b0-0c61-11eb-af11-484d7e9fbdf0</string>
+    <key>PayloadIdentifier</key>
+    <string>TESTIPA-service</string>
+    <key>PayloadDescription</key>
+    <string>该配置文件帮助用户进行App授权安装！</string>
+    <key>PayloadType</key>
+    <string>Profile Service</string>
+  </dict>
+</plist>
